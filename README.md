@@ -1,9 +1,9 @@
-# ⏳ Pomodoro Tray Timer 🖥️🍅
+# ⏳ Pomodoro Tray Timer 🖥️🍅  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/tuusuario/pomodoro-tray)
-![GitHub stars](https://img.shields.io/github/stars/tuusuario/pomodoro-tray?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/tuusuario/pomodoro-tray)
-![GitHub license](https://img.shields.io/github/license/tuusuario/pomodoro-tray)
+![GitHub repo size](https://img.shields.io/github/repo-size/mr-lukhack/Pomodoro)
+![GitHub stars](https://img.shields.io/github/stars/mr-lukhack/Pomodoro?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/mr-lukhack/Pomodoro)
+![GitHub license](https://img.shields.io/github/license/mr-lukhack/Pomodoro)
 
 **Pomodoro Tray Timer** es una aplicación minimalista para la bandeja del sistema en **Windows**, que permite iniciar temporizadores de diferentes duraciones con un solo clic. 🎯 ¡Ideal para mejorar tu productividad con la técnica Pomodoro!  
 
@@ -26,5 +26,5 @@
 ## 📦 **Instalación**
 1. **Clonar el repositorio**  
    ```bash
-   git clone https://github.com/tuusuario/pomodoro-tray.git
-   cd pomodoro-tray
+   git clone https://github.com/mr-lukhack/Pomodoro.git
+   cd Pomodoro
