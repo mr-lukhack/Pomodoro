@@ -35,3 +35,17 @@ pip install -r requirements.txt
 ## Uso ##
 
 python Pomodoro.py
+
+
+🛠 Tecnologías utilizadas
+🐍 Python 3.8+
+🖼 PyQt5 – Para la bandeja del sistema
+📢 Plyer – Notificaciones
+🎨 Iconos personalizados (PNG/ICO)
+📜 Licencia
+Este proyecto está bajo la MIT License. ¡Siéntete libre de usarlo y mejorarlo!
+
+🤝 Contribuir
+💡 ¿Tienes ideas para mejorar esta aplicación? ¡Abre un issue o haz un pull request!
+
+🔗 GitHub Repository https://github.com/mr-lukhack/Pomodoro 
