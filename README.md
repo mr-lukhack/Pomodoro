@@ -11,7 +11,7 @@
 
 ## 🎥 **Vista Previa**  
 
-<img src="assets/demo.png" alt="Demo de Pomodoro Tray Timer" width="500">
+<img src="pomodemo.png" alt="Demo de Pomodoro Tray Timer" width="500">
 
 ---
 
@@ -28,3 +28,10 @@
    ```bash
    git clone https://github.com/mr-lukhack/Pomodoro.git
    cd Pomodoro
+
+## Dependencias ##
+pip install -r requirements.txt
+
+## Uso ##
+
+python Pomodoro.py
